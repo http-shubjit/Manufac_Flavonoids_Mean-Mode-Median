@@ -4,7 +4,7 @@ import { Table, ScrollArea } from "@mantine/core";
 import classes from "./Flavanoids.module.css";
 import { data } from "../data";
 
-export function TableScrollArea() {
+export function Flavanoids() {
   const [scrolled, setScrolled] = useState(false);
 
   function calculateMeanModeMedian(data) {
