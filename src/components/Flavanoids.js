@@ -1,7 +1,7 @@
 import cx from "clsx";
 import { useState } from "react";
 import { Table, ScrollArea } from "@mantine/core";
-import classes from "./TableScrollArea.module.css";
+import classes from "./Flavanoids.module.css";
 import { data } from "../data";
 
 export function TableScrollArea() {
